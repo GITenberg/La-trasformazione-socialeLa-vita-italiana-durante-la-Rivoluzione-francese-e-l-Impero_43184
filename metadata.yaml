@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3304
     wikipedia: http://en.wikipedia.org/wiki/Francesco_Saverio_Nitti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43184#La-trasformazione-socialeLa-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-07-10'
 gutenberg_type: Text
