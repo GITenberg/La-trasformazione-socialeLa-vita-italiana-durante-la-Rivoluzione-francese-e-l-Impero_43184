@@ -1,0 +1,33 @@
+_repo: La-trasformazione-socialeLa-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero_43184
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43184-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nitti, Francesco Saverio
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '3304'
+    url: http://www.gutenberg.org/2009/agents/3304
+    wikipedia: http://en.wikipedia.org/wiki/Francesco_Saverio_Nitti
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43184'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1789-1815'
+- !lcsh 'Italy -- Civilization'
+- !lcsh 'Italy -- Social conditions'
+- !lcc 'DG'
+- !lcsh 'France -- History -- 1789-1815'
+title: 'La trasformazione sociale
+
+  La vita italiana durante la Rivoluzione francese e l''Impero'
+url: http://www.gutenberg.org/ebooks/43184
